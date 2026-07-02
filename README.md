@@ -1,8 +1,11 @@
 # GeoAPS-Privacy
 
-Politique de confidentialité de l'application GeoAPS.
+Pages légales de l'application GeoAPS.
 
 Ce dépôt contient :
 
-- index.html : Politique de confidentialité
-- delete-account.html : Procédure de suppression du compte
+- `index.html` : Politique de confidentialité
+- `delete-account.html` : Suppression du compte
+- `terms.html` : Conditions générales d'utilisation
+
+Contact : akkro@outlook.fr
